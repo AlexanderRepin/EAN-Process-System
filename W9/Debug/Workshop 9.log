@@ -1,0 +1,6 @@
+﻿  w9.cpp
+w9.cpp(20): warning C4018: '<': signed/unsigned mismatch
+w9.cpp(22): warning C4018: '<': signed/unsigned mismatch
+w9.cpp(37): warning C4018: '>=': signed/unsigned mismatch
+  Workshop 9.vcxproj -> C:\Users\Alexander\Documents\School\C++\W9\Debug\Workshop 9.exe
+  Workshop 9.vcxproj -> C:\Users\Alexander\Documents\School\C++\W9\Debug\Workshop 9.pdb (Full PDB)
